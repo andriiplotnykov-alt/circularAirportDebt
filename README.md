@@ -49,6 +49,8 @@ The model resolves this circularity while implementing **cash sweep mechanics**,
 - Designed to feed directly into a lender checklist
 
 ---
+![Project Dashboard Screenshot](./assets/Screenshot 2026-02-02 115826.png)
+---
 
 ## 🛠 Technical Stack — Excel (Advanced)
 
